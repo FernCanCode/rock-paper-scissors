@@ -1,2 +1,2 @@
 # rock-paper-scissors
-an interactive rock paper scissors game against a computer
+a console rock paper scissors game against a computer
